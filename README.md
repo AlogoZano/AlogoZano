@@ -1,17 +1,14 @@
 <!-- Profile README for github.com/AlogoZano -->
 
-<h1 align="center">Hi there 👋, I'm AlogoZano</h1>
-<h3 align="center">Building things that blink, move, and think 🤖⚙️💡</h3>
-
+<h1 align="center">Hi there 👋, I'm Adrián</h1>
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 I work on **embedded systems**, **robotics**, and **software development**
-- 🧠 Passionate about **low-level hacking** and **high-level design**
-- 💬 Ask me about C/C++, Microcontrollers, RTOS, and how to fix a segfault before coffee
-- 📫 Reach me at: **[your-email@example.com]**
-- 🌐 Portfolio: [your-website.com](https://your-website.com) *(optional)*
+- 🧠 Passionate about **low-level software design** and **high-level development**
+- 📫 Reach me at: **alg.lozgon@gmail.com**
+- 🌐 Portfolio: [https://alogozano.github.io/](https://alogozano.github.io/) 
 
 ---
 
@@ -44,11 +41,4 @@ Pin your best work:
 
 ---
 
-### ⚡ Fun Fact
-
-> "I void warranties on everything I touch. Professionally." 😎
-
----
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlogoZano.AlogoZano)
 
