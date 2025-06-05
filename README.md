@@ -1,7 +1,6 @@
 <!-- Profile README for github.com/AlogoZano -->
 
 <h1 align="center">Hi there 👋, I'm Adrián</h1>
----
 
 ### 👨‍💻 About Me
 
@@ -24,12 +23,30 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlogoZano&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlogoZano&theme=radical&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">Line Follower Robot</h4>
+      <a href="https://github.com/AlogoZano/line-follower">
+        <img src="https://user-images.githubusercontent.com/your-image.gif" alt="demo" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/AlogoZano/line-follower">🔗 View Project</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">Mini RTOS Kernel</h4>
+      <a href="https://github.com/AlogoZano/mini-rtos">
+        <img src="https://user-images.githubusercontent.com/your-rtos-image.gif" alt="RTOS" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/AlogoZano/mini-rtos">🔗 View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
