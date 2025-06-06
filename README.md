@@ -74,6 +74,15 @@
         <a href="https://github.com/AlogoZano/ESP32-Pedalboard">🔗 View Project</a>
       </p>
     </td>
+     <td width="50%">
+      <h4 align="center">ROS 2 and MicroROS motor control</h4>
+      <a href="https://github.com/AlogoZano/Robotics-Foundations-TE3001B">
+        <img src="https://user-images.githubusercontent.com/your-rtos-image.gif" alt="RTOS" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/AlogoZano/Robotics-Foundations-TE3001B">🔗 View Project</a>
+      </p>
+    </td>
   </tr>
 </table>
 
