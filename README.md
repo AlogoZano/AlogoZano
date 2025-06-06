@@ -79,11 +79,11 @@
 
 ---
 
-### 🚀 Pinned Projects (recommendations)
-Pin your best work:
-- ✅ A robotics control project
-- ✅ RTOS-based embedded system
-- ✅ A cool C++ CLI tool or Python automation script
+### 🔧 Currently Learning
+
+- Bayesian Filters for pose estimation
+- Embedded systems in Rust
+- Operating systems theory
 
 ---
 
