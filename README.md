@@ -57,21 +57,21 @@
 <table>
   <tr>
     <td width="50%">
-      <h4 align="center">Line Follower Robot</h4>
-      <a href="https://github.com/AlogoZano/line-follower">
+      <h4 align="center">Embedded front loader controller</h4>
+      <a href="https://github.com/AlogoZano/Embedded-intelligent-control-platform">
         <img src="https://user-images.githubusercontent.com/your-image.gif" alt="demo" />
       </a>
       <p align="center">
-        <a href="https://github.com/AlogoZano/line-follower">🔗 View Project</a>
+        <a href="https://github.com/AlogoZano/Embedded-intelligent-control-platform">🔗 View Project</a>
       </p>
     </td>
     <td width="50%">
-      <h4 align="center">Mini RTOS Kernel</h4>
-      <a href="https://github.com/AlogoZano/mini-rtos">
+      <h4 align="center">ESP32 based bass guitar pedalboard</h4>
+      <a href="https://github.com/AlogoZano/ESP32-Pedalboard">
         <img src="https://user-images.githubusercontent.com/your-rtos-image.gif" alt="RTOS" />
       </a>
       <p align="center">
-        <a href="https://github.com/AlogoZano/mini-rtos">🔗 View Project</a>
+        <a href="https://github.com/AlogoZano/ESP32-Pedalboard">🔗 View Project</a>
       </p>
     </td>
   </tr>
