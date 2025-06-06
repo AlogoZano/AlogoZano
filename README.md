@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/AlogoZano -->
+
 
 <h1 align="center">Hi there 👋, I'm Adrián</h1>
 
@@ -56,7 +56,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="30%">
       <h4 align="center">Embedded front loader controller</h4>
       <a href="https://github.com/AlogoZano/Embedded-intelligent-control-platform">
         <img src="https://user-images.githubusercontent.com/your-image.gif" alt="demo" />
@@ -65,7 +65,7 @@
         <a href="https://github.com/AlogoZano/Embedded-intelligent-control-platform">🔗 View Project</a>
       </p>
     </td>
-    <td width="50%">
+    <td width="30%">
       <h4 align="center">ESP32 based bass guitar pedalboard</h4>
       <a href="https://github.com/AlogoZano/ESP32-Pedalboard">
         <img src="https://user-images.githubusercontent.com/your-rtos-image.gif" alt="RTOS" />
@@ -74,7 +74,7 @@
         <a href="https://github.com/AlogoZano/ESP32-Pedalboard">🔗 View Project</a>
       </p>
     </td>
-     <td width="50%">
+     <td width="30%">
       <h4 align="center">ROS 2 and MicroROS motor control</h4>
       <a href="https://github.com/AlogoZano/Robotics-Foundations-TE3001B">
         <img src="https://user-images.githubusercontent.com/your-rtos-image.gif" alt="RTOS" />
